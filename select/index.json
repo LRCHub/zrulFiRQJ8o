@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "キメラ",
+  "base_artist": "DECO*27",
+  "createdAt": "2026-03-09T01:14:17.693673Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "キメラ",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/01_キメラ_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "キメラ",
+      "artist": "WagakkiBand",
+      "has_synced": true,
+      "path": "select/02_キメラ_WagakkiBand.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "キメラ",
+      "artist": "和楽器バンド",
+      "has_synced": true,
+      "path": "select/03_キメラ_和楽器バンド.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "キメラ",
+      "artist": "和楽器バンド (Wagakki Band)",
+      "has_synced": true,
+      "path": "select/04_キメラ_和楽器バンド_(Wagakki_Band).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "キメラ",
+      "artist": "ATOLS",
+      "has_synced": false,
+      "path": "select/05_キメラ_ATOLS.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "キメラ",
+      "artist": "Wagakki Band",
+      "has_synced": true,
+      "path": "select/06_キメラ_Wagakki_Band.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "キメラ",
+      "artist": "ATOLS",
+      "has_synced": true,
+      "path": "select/07_キメラ_ATOLS.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "キメラ",
+      "artist": "POLKADOT STINGRAY",
+      "has_synced": true,
+      "path": "select/08_キメラ_POLKADOT_STINGRAY.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "キメラ",
+      "artist": "DECO∗27",
+      "has_synced": true,
+      "path": "select/09_キメラ_DECO∗27.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "キメラ",
+      "artist": "ポルカドットスティングレイ",
+      "has_synced": true,
+      "path": "select/10_キメラ_ポルカドットスティングレイ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "キメラ",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/pl_01_キメラ_DECO_27.txt"
+    }
+  ]
+}
